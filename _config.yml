@@ -1,0 +1,28 @@
+name: APCP
+favicon: null
+layout_spectrum: 0.47134307329542935
+typography_spectrum: 0.16159083368256688
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.6077640848234296
+  lightness: 0.9134079152718186
+  saturation: 0.8840806595981121
+  rhythmicContrast: 0.19529141741804779
+purpose: []
